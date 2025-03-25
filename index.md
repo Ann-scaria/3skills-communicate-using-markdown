@@ -12,3 +12,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Complete Markdown headers section  
+- [x] Add an image to the file  
+- [ ] Create a code block  
+- [ ] Turn on GitHub Pages  
+ 
